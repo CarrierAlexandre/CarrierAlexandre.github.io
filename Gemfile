@@ -1,14 +1,14 @@
-# remote theme
+remote theme
 
-#source "https://rubygems.org"
-#gemspec
+source "https://rubygems.org"
+gemspec
 
-#gem "jekyll-remote-theme"
+gem "jekyll-remote-theme"
 
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
 
-bundle
+#bundle
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 
 #
