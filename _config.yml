@@ -16,6 +16,8 @@
 
 plugins:
   - jekyll-include-cache
+plugins:
+- jekyll-remote-theme
   
 # Site Settings
 locale                   : "en-US"
