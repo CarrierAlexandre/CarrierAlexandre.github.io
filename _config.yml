@@ -119,7 +119,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:alexandre.carrier@uni-bielefeld.de"
+      # url: "mailto:alexandre.carrier@uni-bielefeld.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
