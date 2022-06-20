@@ -1,8 +1,12 @@
 ---
-layout: archive
-title: About me
 permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+  
 ---
 
 I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam. 
