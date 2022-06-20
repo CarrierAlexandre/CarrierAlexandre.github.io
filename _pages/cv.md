@@ -1,5 +1,9 @@
-layout: single
+---
+layout: signle
 title: CV
 permalink: /cv/
 author_profile: true
-#redirect_from
+---
+
+You can download my [CV here](/assets/CV_Alexandre_Carrier_June2022.pdf){:target="\_blank"}. 
+
