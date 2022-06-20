@@ -1,0 +1,12 @@
+Alexandre Carrier:
+  name        : "Alexandre Carrier"
+  bio         : "PhD candidate in Economics at Bielelfed University and the University of Amsterdam."
+  #avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:alexandre.carrier@uni-bielefeld.de"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://carrieralexandre.github.io"
+    
