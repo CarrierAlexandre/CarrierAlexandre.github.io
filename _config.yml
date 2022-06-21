@@ -27,7 +27,7 @@ title                    : "Alexandre Carrier"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Alexandre Carrier"
-description              : &description "Hi, welcome to my website! I am Alexandre Carrier, PhD candidate in Economics at Bielelfed University and the University of Amsterdam."
+description              : &description "Hi, welcome to my website! I am Alexandre Carrier, PhD candidate in Economics at Bielefeld University and the University of Amsterdam."
 url                      : https://CarrierAlexandre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CarrierAlexandre/CarrierAlexandre.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
