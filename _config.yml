@@ -113,7 +113,8 @@ analytics:
 author:
   name             : "Alexandre Carrier"
   avatar           : #"/assets/images/bio_picture.jpg"
-  bio              : "PhD candidate in Economics at Bielefeld University and the University of Amsterdam. PhD trainee in DG Monetary Policy at the ECB."
+  bio              : "PhD candidate in Economics at Bielefeld University and the University of Amsterdam. 
+                      PhD trainee in DG Monetary Policy at the ECB."
   location         : "Bielefeld University & UvA"
   email            : "alexandre.carrier@uni-bielefeld.de"
   links:
