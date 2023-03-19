@@ -8,7 +8,7 @@ classes: wide
 ---
 
 <p style="text-align: justify">
-I am a PhD candidate in economics at the University of Amsterdam and Bielefeld University. Currently, I am also a PhD trainee in the Directorate General Monetary Policy at the European Central Bank, supporting senior management. 
+I am a PhD candidate in economics at the University of Amsterdam and Bielefeld University. Currently, I am also a PhD trainee in the Directorate General Monetary Policy at the European Central Bank, supporting senior management.
 </p>
 
 <!-- <p style="text-align: justify">
