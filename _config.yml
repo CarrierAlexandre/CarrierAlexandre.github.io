@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexandre Carrier"
-  avatar           : #"/assets/images/bio_picture.jpg"
+  avatar           : "/assets/images/bio_picture.jpg"
   bio              : "PhD candidate in Economics at Bielefeld University and the University of Amsterdam."
   location         : "Bielefeld University & UvA"
   email            : "alexandre.carrier@uni-bielefeld.de"
