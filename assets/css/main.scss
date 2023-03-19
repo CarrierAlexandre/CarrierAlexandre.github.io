@@ -13,7 +13,7 @@ search: false
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 40px;
+  width: 80px;
   height: 80px;
 
   @include breakpoint($large) {
@@ -23,7 +23,7 @@ search: false
   }
 
   img {
-    max-width: 125px;
+    max-width: 175px;
     border-radius: 50%;
 
     @include breakpoint($large) {
