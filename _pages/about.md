@@ -9,7 +9,8 @@ redirect_from:
   
 ---
 
-I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam. 
+I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam.  \\
+Currently, I am also a Ph.D. trainee at the Directorate General Monetary Policy of the European Central Bank, within senior management.\\
 My research interests are in monetary economics and behavioral macroeconomics.
 
 Contact:
@@ -17,4 +18,4 @@ Contact:
 mailto:alexandre.carrier@uni-bielefeld.de
 
 
-You can download my [CV here](/assets/CV_Alexandre_Carrier_June2022.pdf).
+You can download my [CV here](/assets/CV_Alexandre_Carrier_March2023.pdf).
