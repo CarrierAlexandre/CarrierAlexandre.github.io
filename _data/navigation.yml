@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /Home/
+    url: /index/
   - title: "Research"
     url: /Research/
   - title: "CV"
