@@ -9,8 +9,10 @@ redirect_from:
   
 ---
 
-I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam.  \\
-Currently, I am also a Ph.D. trainee at the Directorate General Monetary Policy of the European Central Bank, within senior management.\\
+I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam.  
+
+Currently, I am also a Ph.D. trainee at the Directorate General Monetary Policy of the European Central Bank, within senior management.
+
 My research interests are in monetary economics and behavioral macroeconomics.
 
 Contact:
