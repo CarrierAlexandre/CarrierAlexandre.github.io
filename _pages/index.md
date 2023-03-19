@@ -19,7 +19,7 @@ By employing mathematical tools from functional analysis, topology, differential
 </p> -->
 
 ### My research interests are:
-- Macroeconomics and monetary economics.
-- Heterogeneous agents.
-- Bounded rationality and learning.
-- Computational economics.
+- Macroeconomics and monetary economics
+- Heterogeneous agents
+- Bounded rationality and learning
+- Computational economics
