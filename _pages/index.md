@@ -20,7 +20,7 @@ Contact:
 
 mailto:alexandre.carrier@uni-bielefeld.de
 
-You can download my CV here.
+You can download my [CV here](/assets/CV_Alexandre_Carrier-May.pdf).
 </p>
 
 <!-- <p style="text-align: justify">
