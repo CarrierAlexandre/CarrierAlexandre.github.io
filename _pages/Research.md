@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job market paper ## 
 
-* ** Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area **
+* Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area 
 
 [Latest available draft here](https://carrieralexandre.github.io/assets/Carrier_JMP_October_2023.pdf) 
 
