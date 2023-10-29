@@ -16,7 +16,8 @@ Last year, I was Ph.D. trainee at the Directorate General Monetary Policy of the
 
 <!--</p> -->
 
-### I am on the job market this year (2023/24).
+### I am on the job market this year (2023/24). ### You can find the latest version of my job market paper [here](/assets/Carrier_JMP_October_2023.pdf).
+
 
 Contact: alexandre.carrier@uni-bielefeld.de.
 
