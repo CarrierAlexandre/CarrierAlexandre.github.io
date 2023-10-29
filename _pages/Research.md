@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job market paper ## 
 
-#### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area ####
+##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area #####
 
 [Latest available draft here](https://carrieralexandre.github.io/assets/Carrier_JMP_October_2023.pdf) 
 
@@ -17,7 +17,7 @@ author_profile: true
 
 ## Work in progress ## 
 
-* Behavioral learning equilibria in a bond market with asset purchases 
+##### Behavioral learning equilibria in a bond market with asset purchases #####
 joint with [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html)
 
 <p style="text-align: justify">
@@ -25,7 +25,7 @@ joint with [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes
 </p>
 
 
-## Optimal normalization policy under behavioral expectations ##
+##### Optimal normalization policy under behavioral expectations #####
 joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/)
 
 <p style="text-align: justify">
