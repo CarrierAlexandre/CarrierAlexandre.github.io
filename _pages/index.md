@@ -20,6 +20,8 @@ Last year, I was Ph.D. trainee at the Directorate General Monetary Policy of the
 You can find the latest version of my job market paper [here](/assets/Carrier_JMP_October_2023.pdf).
 
 
+
+
 Contact: alexandre.carrier@uni-bielefeld.de.
 
 You can download my [CV here](/assets/CV_Alexandre_Carrier_Nov2023.pdf).
@@ -30,6 +32,8 @@ Within this purview, numerical methods are indispensable.
 Indeed, they <em>must</em> be used in order to make informed decisions and reach reliable conclusions when facing contemporary problems in science and engineering.
 By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
 </p> -->
+
+
 
 ### My research interests are:
 - Macroeconomics and monetary economics
