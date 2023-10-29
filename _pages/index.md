@@ -8,7 +8,7 @@ classes: wide
 ---
 
 <p style="text-align: justify">
-I am PhD candidate in Economics at [Bielefeld University](https://www.uni-bielefeld.de) and the [University of Amsterdam](https://www.uva.nl/en?cb). 
+I am PhD candidate in Economics at [Bielefeld University](https://www.uni-bielefeld.de) and the [University of Amsterdam](https://www.uva.nl/en). 
 
 Currently, I am also a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, under the supervision of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
 
