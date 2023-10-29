@@ -8,7 +8,17 @@ classes: wide
 ---
 
 <p style="text-align: justify">
-I am a PhD candidate in economics at the University of Amsterdam and Bielefeld University. Currently, I am also a PhD trainee in the Directorate General Monetary Policy at the European Central Bank, supporting senior management.
+I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam. 
+
+Currently, I am also a Research Analyst at De Nederlandsche Bank, working on the development of a Suite of Models for policy analysis, under the supervision of Guido Ascari.
+
+Last year, I was Ph.D. trainee at the Directorate General Monetary Policy of the European Central Bank, within senior management.
+
+Contact:
+
+mailto:alexandre.carrier@uni-bielefeld.de
+
+You can download my CV here.
 </p>
 
 <!-- <p style="text-align: justify">
