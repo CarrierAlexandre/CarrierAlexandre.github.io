@@ -1,11 +1,11 @@
 Alexandre Carrier:
   name        : "Alexandre Carrier"
-  bio         : "PhD candidate in Economics at Bielelfed University and the University of Amsterdam. PhD trainee in DG Monetary Policy, European Central Bank"
+  bio         : "PhD candidate in Economics at Bielelfed University and the University of Amsterdam. Research at De Nederlandsche Bank."
   #avatar      : "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alexandre.carrier@uni-bielefeld.de"
+      url: "mailto:carrier.alexandre15@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://carrieralexandre.github.io"
