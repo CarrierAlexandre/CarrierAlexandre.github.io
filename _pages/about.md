@@ -15,9 +15,4 @@ Currently, I am also a Research Analyst at [De Nederlandsche Bank](https://www.d
 
 Last year, I was Ph.D. trainee at the Directorate General Monetary Policy of the European Central Bank, within senior management.
 
-Contact:
-
-Email: carrier.alexandre15@gmail.com
-
-
 You can download my [CV here](/assets/CV_Alexandre_Carrier_Nov2023.pdf).
