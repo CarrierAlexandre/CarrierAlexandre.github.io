@@ -8,7 +8,7 @@ classes: wide
 ---
 
 <!-- <p style="text-align: justify">-->
-I am PhD candidate in Economics at [Bielefeld University](https://www.uni-bielefeld.de) and the [University of Amsterdam](https://www.uva.nl/en), supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
+I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam, supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
 
 Currently, I am also a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
 
@@ -22,7 +22,7 @@ You can find the latest version of my job market paper [here](/assets/Carrier_JM
 
 
 
-Contact: alexandre.carrier@uni-bielefeld.de
+Contact: carrier.alexandre15@gmail.com
 
 You can download my [CV here](/assets/CV_Alexandre_Carrier_Nov2023.pdf).
 
