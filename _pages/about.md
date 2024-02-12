@@ -17,7 +17,7 @@ Last year, I was Ph.D. trainee at the Directorate General Monetary Policy of the
 
 Contact:
 
-Email: alexandre.carrier@uni-bielefeld.de
+Email: carrier.alexandre15@gmail.com
 
 
 You can download my [CV here](/assets/CV_Alexandre_Carrier_Nov2023.pdf).
