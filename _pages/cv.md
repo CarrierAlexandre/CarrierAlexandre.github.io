@@ -16,6 +16,13 @@ author_profile: true
     width: 100px; /* Adjust avatar size as needed */
     height: 100px; /* Adjust avatar size as needed */
   }
+  a {
+    color: #0044cc; /* This is a deeper blue color; adjust the hex value as needed */
+  }
+
+  a:hover {
+    color: #003399; /* This is even darker for when you hover over the link; adjust as needed */
+  }
 </style>
 
 ### Work experience
