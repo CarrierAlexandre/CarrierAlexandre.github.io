@@ -6,6 +6,19 @@ permalink: /
 author_profile: true
 classes: wide
 ---
+<style>
+  body {
+    font-size: 16px; /* Adjust body font size as needed */
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 20px; /* Adjust heading font sizes as needed */
+  }
+  .author__avatar {
+    width: 80px; /* Adjust avatar size as needed */
+    height: 80px; /* Adjust avatar size as needed */
+  }
+</style>
+
 
 <!-- <p style="text-align: justify">-->
 I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam, supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
