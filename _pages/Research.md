@@ -18,18 +18,16 @@ author_profile: true
 </style>
 
 
-## Job market paper ## 
+## Working paper ## 
 
 ##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area #####
-
-[Latest available draft here](https://carrieralexandre.github.io/assets/Carrier_JMP_2023.pdf) 
 
 <p style="text-align: justify">
 <font size="3"> Abstract: This paper studies the effects of the ECB’s large-scale bond purchases on euro area economic activity and income inequality, in a New Keynesian model with limited asset market participation. I estimate the model using Bayesian methods and euro area data, considering the occasionally binding constraint on the policy rate and the public sector purchase programme (PSPP) implemented by the ECB in 2015. The results suggest that the PSPP has effectively lifted both output and inflation. In terms of income inequality, the impact was modest overall but exhibited a non-linear profile. In the early years of the program, income inequality widened, reflecting rising asset prices. Subsequently, however, this trend reversed, with gradual and sustained growth in labor income becoming the predominant factor, leading to a decline in income inequality. </font>
 </p>
 
 ##### Optimal normalization policy under behavioral expectations #####
-joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/)
+joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), Reject and Re-submit at the Journal of Monetary Economics
 
 [DNB Working Paper version](https://www.dnb.nl/media/ictouenh/working_paper_no-800.pdf) 
 
