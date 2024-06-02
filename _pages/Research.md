@@ -18,7 +18,7 @@ author_profile: true
 </style>
 
 
-## Working paper ## 
+## Working papers ## 
 
 ##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area #####
 
