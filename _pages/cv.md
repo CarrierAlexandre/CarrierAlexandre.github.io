@@ -25,7 +25,7 @@ author_profile: true
   }
 </style>
 
-### Work experience
+### Relevant work experience
 
 - European Central Bank, Frankfurt-am-Main, since September 2024: Economist Graduate Programme Participant, Directorate General Monetary Policy.
 
