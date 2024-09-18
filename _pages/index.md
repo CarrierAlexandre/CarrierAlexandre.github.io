@@ -28,11 +28,12 @@ classes: wide
 
 
 <!-- <p style="text-align: justify">-->
-I am PhD candidate in Economics at Bielefeld University and the University of Amsterdam, supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
+Some news: I recently joined the DG Monetary Policy of the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as Economist Graduate Programme Participant.
 
-Currently, I am also a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
+I am also a PhD candidate in Economics at the University of Amsterdam and Bielefeld University, supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
 
-Last year, I was a Ph.D. trainee at the Directorate General Monetary Policy of the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), within Senior Management.
+Last year, I am also a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
+
 
 <!--</p> -->
 
