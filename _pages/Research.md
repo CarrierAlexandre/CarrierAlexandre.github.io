@@ -46,3 +46,6 @@ joint with [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes
 <font size="3"> Abstract: This paper studies the effects of central banks' asset purchases on long-term government bond yields, in a model featuring investors who adopt a simple yet optimal AR(1) forecasting rule based on past data. By examining the convergence dynamics of agents towards a specific Behavioral Learning Equilibrium (BLE),  we uncover the factors that shape the efficacy of these policies:  financial market volatility and short-term interest rates. In periods characterised by low financial stress, agents' learning process leads to stable convergence, with forecasts exhibiting a near-unit root first-order autocorrelation coefficient. As a consequence, quantitative easing (QE) demonstrates significant and persistent effects on bond yields. However, in times of heightened financial volatility, multiple equilibria emerge, leading QE to have effects that vary from high to low persistence. </font>
 </p>
 
+
+##### The short-run Phillips Curves are ... curves.
+joint with [Guido Ascari][https://sites.google.com/site/guidoascari/home], [Emanuel Gasteiger][https://www.urleiwand.com/], [Alex Grimaud][https://www.alexgrimaud.com/home] & [Gauthier Vermandel][https://vermandel.fr/]
