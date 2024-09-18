@@ -48,4 +48,4 @@ joint with [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes
 
 
 ##### The short-run Phillips Curves are ... curves.
-joint with [Guido Ascari][https://sites.google.com/site/guidoascari/home], [Emanuel Gasteiger][https://www.urleiwand.com/], [Alex Grimaud][https://www.alexgrimaud.com/home] & [Gauthier Vermandel][https://vermandel.fr/]
+joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/)
