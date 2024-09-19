@@ -32,7 +32,7 @@ Some news: I recently joined the DG Monetary Policy of the [European Central Ban
 
 I am also a PhD candidate in Economics at the University of Amsterdam and Bielefeld University, supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
 
-Last year, I am also a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
+Last year, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
 
 
 <!--</p> -->
