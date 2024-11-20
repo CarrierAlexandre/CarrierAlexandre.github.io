@@ -24,7 +24,6 @@ author_profile: true
   }
 </style>
 
-<br>
 <h2 style="font-size: 2.2em;">Working Papers</h2>
 
 
