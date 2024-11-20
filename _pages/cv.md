@@ -7,10 +7,10 @@ author_profile: true
 
 <style>
   body {
-    font-size: 14px; /* Adjust body font size as needed */
+    font-size: 15px; /* Adjust body font size as needed */
   }
   h1, h2, h3, h4, h5, h6 {
-    font-size: 18px; /* Adjust heading font sizes as needed */
+    font-size: 19px; /* Adjust heading font sizes as needed */
   }
   .author__avatar {
     width: 100px; /* Adjust avatar size as needed */
