@@ -8,21 +8,21 @@ classes: wide
 ---
 <style>
   body {
-    font-size: 18px; /* Adjust body font size as needed */
+    font-size: 14px; /* Adjust body font size as needed */
   }
   h1, h2, h3, h4, h5, h6 {
-    font-size: 22px; /* Adjust heading font sizes as needed */
+    font-size: 18px; /* Adjust heading font sizes as needed */
   }
   .author__avatar {
     width: 100px; /* Adjust avatar size as needed */
     height: 100px; /* Adjust avatar size as needed */
   }
   a {
-    color: #0044cc; /* This is a deeper blue color; adjust the hex value as needed */
+    color: #003399; /* This is a deeper blue color; adjust the hex value as needed */
   }
 
   a:hover {
-    color: #003399; /* This is even darker for when you hover over the link; adjust as needed */
+    color: #002a80; /* This is even darker for when you hover over the link; adjust as needed */
   }
 </style>
 
@@ -30,7 +30,7 @@ classes: wide
 <!-- <p style="text-align: justify">-->
 Some news: I recently joined the DG Monetary Policy of the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as Economist Graduate Programme Participant.
 
-I am also a PhD candidate in Economics at the University of Amsterdam and Bielefeld University, supervised by [Herbert Dawid](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/etace/team/herbert-dawid/) and [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html).
+I recently defended my PhD at the University of Amsterdam and Bielefeld University.
 
 Last year, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
 
