@@ -25,7 +25,7 @@ author_profile: true
 </style>
 
 
-## Working papers ##
+# Working Papers #
  
 ##### Optimal normalization policy under behavioral expectations #####
 joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), R'd & R'd at the Journal of Monetary Economics
@@ -37,7 +37,7 @@ joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavrom
 <font size="2"> Abstract:  We characterize optimal normalization policy in a framework in which agents' expectations can deviate from the rational expectations benchmark and the central bank faces persistent cost-push shocks. When interest rate fluctuations are costless, our findings indicate that the interest rate is the primary tool for managing inflationary pressures, consistently outperforming balance sheet adjustments, regardless of the expectations formation process. However, under de-anchored expectations, an increasing role for balance sheet management arises when interest rate fluctuations become costly. Finally, our analysis reveals that expectations significantly influence the optimal interest rate trajectory, whereas their impact on the optimal balance sheet path is comparatively minimal. </font>
 </p>
 
-## Work in progress ## 
+# Selected Work in Progress # 
 
 ##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area #####
 
