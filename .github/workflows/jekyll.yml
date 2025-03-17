@@ -1,64 +1,63 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Jekyll Build
 
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+    branches: [master]
+  pull_request:
 
 jobs:
-  # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-x64  # Adjust this if needed for your self-hosted runner
+    env:
+      RUNNER_TOOL_CACHE: /opt/hostedtoolcache
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
-        with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+      - name: Checkout Code
+        uses: actions/checkout@v3
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Set RUNNER_TOOL_CACHE env var
+        run: echo "RUNNER_TOOL_CACHE=/opt/hostedtoolcache" >> $GITHUB_ENV
+
+      - name: Install rbenv and ruby-build (if not already available)
+        run: |
+          if ! command -v ruby-build >/dev/null; then
+            git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+            cd ~/.rbenv && src/configure && make -C src
+            git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+            export PATH="$HOME/.rbenv/bin:$PATH"
+            eval "$(rbenv init -)"
+          fi
+
+      - name: Install Ruby 3.1.4 using ruby-build
+        run: |
+          RUBY_DIR="$RUNNER_TOOL_CACHE/Ruby/3.1.4/x64"
+          if [ ! -f "${RUBY_DIR}.complete" ]; then
+            sudo mkdir -p "$RUBY_DIR"
+            sudo chown $USER "$RUBY_DIR"
+            ruby-build 3.1.4 "$RUBY_DIR"
+            touch "${RUBY_DIR}.complete"
+          fi
+
+      - name: Verify Ruby Installation
+        run: |
+          RUBY_DIR="$RUNNER_TOOL_CACHE/Ruby/3.1.4/x64"
+          if [ -f "${RUBY_DIR}.complete" ]; then
+            echo "Ruby installed successfully:"
+            "$RUBY_DIR/bin/ruby" -v
+          else
+            echo "Ruby installation not found."
+            exit 1
+          fi
+
+      - name: Update PATH with Ruby
+        run: echo "$RUNNER_TOOL_CACHE/Ruby/3.1.4/x64/bin" >> $GITHUB_PATH
+
+      - name: Check Ruby in PATH
+        run: |
+          which ruby
+          ruby -v
+
+      - name: Install Dependencies
+        run: bundle install
+
+      - name: Build Site
+        run: bundle exec jekyll build
