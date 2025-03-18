@@ -7,7 +7,13 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04-x64  # Adjust this if needed for your self-hosted runner
+    if: true
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ ubuntu-20.04, ubuntu-22.04, ubuntu-24.04, ubuntu-22.04-arm, ubuntu-24.04-arm, macos-13, macos-14 ]
+        ruby: [truffleruby-24.2.0, truffleruby+graalvm-24.2.0]
+    runs-on: ${{ matrix.os }}    
     env:
       RUNNER_TOOL_CACHE: /opt/hostedtoolcache
     steps:
