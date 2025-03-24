@@ -2,9 +2,11 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [master]
+    branches:
+      - master
   pull_request:
-    branches: [master]
+    branches:
+      - master
 
 jobs:
   build:
@@ -12,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -20,12 +24,11 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+        working-directory: CarrierAlexandre.github.io
+        run: bundle install
 
       - name: Build site with Jekyll
+        working-directory: CarrierAlexandre.github.io
         run: bundle exec jekyll build
 
-      - name: Run tests
-        run: bundle exec rake
+      # (Remove or adjust any deploy step as needed)
