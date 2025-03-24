@@ -30,6 +30,22 @@ jobs:
       - name: Run tests
         run: bundle exec rake
 
+ deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # If you are deploying a Jekyll site, _site is usually the output folder
+          publish_dir: _site
+          # If you want to push to a specific branch, e.g., gh-pages, you can add:
+          # publish_branch: gh-pages
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
