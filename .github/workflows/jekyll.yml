@@ -43,4 +43,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: master          # Still use master for a user site
           publish_dir: _site              # Built files from Jekyll
-          destination_dir: docs            # Copy the built files into the docs/ folder
+        #  destination_dir: docs            # Copy the built files into the docs/ folder
