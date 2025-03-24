@@ -19,7 +19,7 @@ jobs:
           ruby-version: '3.3'       # Adjust Ruby version as needed
           bundler-cache: true       # Automatically runs `bundle install` and caches gems
 
-      - name: Install additional dependencies
+      - name: Install dependencies
         run: |
           gem install bundler
           bundle install
@@ -29,3 +29,9 @@ jobs:
 
       - name: Run tests
         run: bundle exec rake
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
