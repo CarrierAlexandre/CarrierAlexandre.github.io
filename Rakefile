@@ -1,4 +1,5 @@
 require "bundler/gem_tasks"
+Bundler::GemHelper.install_tasks(name: 'carrier_alexandre')
 require "jekyll"
 require "listen"
 
