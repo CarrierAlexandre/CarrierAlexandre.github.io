@@ -43,7 +43,10 @@ joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavrom
 ##### The short-run Phillips Curves are ... curves.
 joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/)
 
-
+<p style="text-align: justify">
+<font size="2"> Abstract: We investigate monetary policy where the wages and prices Phillips curves exhibit true curvature, moving beyond the quasi-linear structure of the standard nonlinear New Keynesian Phillips curves (NKPC). To address this limitation, we propose a New Keynesian (NK) model featuring endogenous adjustment frequencies for price and wage setting. Using Eurozone data spanning 1999 to 2023Q4, we estimate and simulate the nonlinear model.  We then study the recent inflation surge and the implication of state-dependent prices and wages for monetary policy in the estimated non-linear model. Unlike conventional models, our framework does not rely mostly on exogenous supply shocks to explain inflation dynamics. Instead, the effects of shocks on inflation dynamics  vary by time, magnitude, and state of the business cycle. The inflation-output stabilization trade-off faced by monetary policy varies with business cycle conditions. For example, monetary policy demonstrates greater efficacy in controlling inflation, and supply shocks have larger effects during periods of elevated inflation. </font>
+</p>
+  
 ##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area #####
 
 <p style="text-align: justify">
