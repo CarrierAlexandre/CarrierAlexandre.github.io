@@ -28,7 +28,7 @@ author_profile: true
 
 
 ##### Optimal normalization policy under behavioral expectations #####
-joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), Journal of Monetary Economics, Vol. 153, 103786, July 2025. [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304393225000571) / [Revised draft](/assets/Carrier_Mavromatis_2025April.pdf) / [Originial DNB Working Paper version](https://www.dnb.nl/en/publications/research-publications/working-paper-2024/800-optimal-normalization-policy-under-behavioral-expectations/) 
+joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), Journal of Monetary Economics, Vol. 153, 103786, July 2025. [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304393225000571) / [Revised draft](/assets/Carrier_Mavromatis_2025April.pdf) / [Original DNB Working Paper version](https://www.dnb.nl/en/publications/research-publications/working-paper-2024/800-optimal-normalization-policy-under-behavioral-expectations/) 
 
 
 
