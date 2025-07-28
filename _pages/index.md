@@ -41,7 +41,7 @@ Last year, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.n
 
 Contact: carrier.alexandre15@gmail.com
 
-You can download my [CV here](/assets/CV_Alexandre_Carrier_Nov2023.pdf).
+You can download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
 
 <!-- <p style="text-align: justify">
 My research is driven towards characterizing, quantifying, and, ultimately, predicting natural phenomena by way of mathematical modelling.
