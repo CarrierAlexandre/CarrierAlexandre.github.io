@@ -35,13 +35,17 @@ joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavrom
 <h2 style="font-size: 2.2em;">Working Papers </h2> 
 
 
-##### The short-run Phillips Curves are ... curves.
-joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/)
+##### Monetary Policy in the Euro Area, when Phillips Curves ... are Curves. #####
+joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/). [CEPR Discussion Paper](https://cepr.org/publications/dp20489) 
 
 <p style="text-align: justify">
-<font size="2"> Abstract: We investigate monetary policy where the wages and prices Phillips curves exhibit true curvature, moving beyond the quasi-linear structure of the standard nonlinear New Keynesian Phillips curves (NKPC). To address this limitation, we propose a New Keynesian (NK) model featuring endogenous adjustment frequencies for price and wage setting. Using Eurozone data spanning 1999 to 2023Q4, we estimate and simulate the nonlinear model.  We then study the recent inflation surge and the implication of state-dependent prices and wages for monetary policy in the estimated non-linear model. Unlike conventional models, our framework does not rely mostly on exogenous supply shocks to explain inflation dynamics. Instead, the effects of shocks on inflation dynamics  vary by time, magnitude, and state of the business cycle. The inflation-output stabilization trade-off faced by monetary policy varies with business cycle conditions. For example, monetary policy demonstrates greater efficacy in controlling inflation, and supply shocks have larger effects during periods of elevated inflation. </font>
+<font size="2"> Abstract: We study monetary policy where the price and wage Phillips curves exhibit true curvature. To this end, we propose a New Keynesian (NK) model featuring endogenous adjustment of price and wage setting frequencies, moving beyond the quasi-linear structure of the standard nonlinear NK Phillips curves (NKPC). Using euro area data spanning 1999Q1 to 2024Q4, we estimate and simulate the non-linear model. We then study the recent inflation surge and the implications of state-dependent prices and wages for monetary policy in the estimated non-linear model. Unlike conventional models, our framework does not primarily explain inflation dynamics by exogenous supply shocks. Instead, the impact of shocks on inflation depends on their timing, size, and the business cycle. Consequently, the inflation-output stabilization trade-off faced by monetary policy is state-dependent. For example, monetary policy is more effective in curbing inflation, and supply shocks have larger effects during periods of high inflation. </font>
 </p>
   
+
+<h2 style="font-size: 2.2em;">Work in Progress </h2> 
+
+
 ##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area #####
 
 <p style="text-align: justify">
