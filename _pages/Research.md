@@ -24,20 +24,15 @@ author_profile: true
   }
 </style>
 
-<h2 style="font-size: 2.2em;">Working Papers</h2>
+<h2 style="font-size: 2.2em;">Publication</h2>
 
 
 ##### Optimal normalization policy under behavioral expectations #####
-joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), Accepted for publication at the Journal of Monetary Economics, [revised draft](/assets/Carrier_Mavromatis_2025April.pdf). 
-
-[Originial DNB Working Paper version](https://www.dnb.nl/en/publications/research-publications/working-paper-2024/800-optimal-normalization-policy-under-behavioral-expectations/) 
+joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), Journal of Monetary Economics, Vol. 153, 103786, July 2025. [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304393225000571) / [Revised draft](/assets/Carrier_Mavromatis_2025April.pdf) / [Originial DNB Working Paper version](https://www.dnb.nl/en/publications/research-publications/working-paper-2024/800-optimal-normalization-policy-under-behavioral-expectations/) 
 
 
-<p style="text-align: justify">
-<font size="2"> Abstract:  We characterize optimal normalization policy in a framework in which agents' expectations can deviate from the rational expectations benchmark and the central bank faces persistent cost-push shocks. When interest rate fluctuations are costless, our findings indicate that the interest rate is the primary tool for managing inflationary pressures, consistently outperforming balance sheet adjustments, regardless of the expectations formation process. However, under de-anchored expectations, an increasing role for balance sheet management arises when interest rate fluctuations become costly. Finally, our analysis reveals that expectations significantly influence the optimal interest rate trajectory, whereas their impact on the optimal balance sheet path is comparatively minimal. </font>
-</p>
 
-<h2 style="font-size: 2.2em;">Selected Work in Progress </h2> 
+<h2 style="font-size: 2.2em;">Working Papers </h2> 
 
 
 ##### The short-run Phillips Curves are ... curves.
