@@ -25,13 +25,15 @@ author_profile: true
   }
 </style>
 
-### Relevant work experience
+### Employment 
 
-- European Central Bank, Frankfurt-am-Main, since September 2024: Economist Graduate Programme Participant, Directorate General Monetary Policy.
+- European Central Bank, Frankfurt-am-Main, since September 2024: Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
+
+### Past work experience
 
 - De Nederlandsche Bank, Amsterdam, September 2023 - August 2024: Research analyst in Monetary Policy Research.
 
-- European Central Bank, Frankfurt-am-Main, August 2022 - August 2023: PhD traineeship in the Directorate General Monetary Policy, within Senior Management.
+- European Central Bank, Frankfurt-am-Main, August 2022 - August 2023: PhD traineeship in the DG Monetary Policy, within Senior Management.
 
 - CEPII, Paris, April - July 2019: Research assistant in the International Macroeconomics and Finance Department.
 
@@ -46,5 +48,5 @@ author_profile: true
 - Goethe University, Frankfurt-am-Main - Paris-Dauphine University, 2014 - 2017, Bachelor in Applied Economics - Double-Degree
 
 
-You can download my [CV here](/assets/CV_Alexandre_Carrier_Nov2023.pdf).
+You can download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
 
