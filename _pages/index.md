@@ -28,28 +28,25 @@ classes: wide
 
 
 <!-- <p style="text-align: justify">-->
-Some news: I recently joined the DG Monetary Policy of the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as Economist Graduate Programme Participant.
+Welcome to my webpage!
 
-I recently defended my PhD at the University of Amsterdam and Bielefeld University.
+I currently work in the DG Monetary Policy of the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as Economist Graduate Programme Participant.
 
-Last year, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
+I obtained my PhD from the University of Amsterdam and Bielefeld University.
+
+Prior to that, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on the development of a Suite of Models for policy analysis, within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home?authuser=0).
 
 
 <!--</p> -->
 
+### Some news:
+- Our paper, ["Optimal normalization policy under behavioral expectations"](https://www.sciencedirect.com/science/article/abs/pii/S0304393225000571), joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/) has just been published in the Journal of Monetary Economics!
 
+- New WP: ["Monetary Policy in the Euro Area, when Phillips Curves ... are Curves"](https://cepr.org/publications/dp20489) , joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/). 
 
 Contact: carrier.alexandre15@gmail.com
 
 You can download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
-
-<!-- <p style="text-align: justify">
-My research is driven towards characterizing, quantifying, and, ultimately, predicting natural phenomena by way of mathematical modelling.
-Within this purview, numerical methods are indispensable.
-Indeed, they <em>must</em> be used in order to make informed decisions and reach reliable conclusions when facing contemporary problems in science and engineering.
-By employing mathematical tools from functional analysis, topology, differential geometry, and numerical linear algebra, the intent of my research is to develop the most accurate and practical numerical methods for modern scientific and engineering purposes.
-</p> -->
-
 
 
 ### My research interests are:
