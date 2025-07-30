@@ -39,14 +39,16 @@ Prior to that, I was a Research Analyst at [De Nederlandsche Bank](https://www.d
 
 <!--</p> -->
 
+You can download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
+
+Contact: carrier.alexandre15@gmail.com
+
+
 ### Some news:
 - Our paper, ["Optimal normalization policy under behavioral expectations"](https://www.sciencedirect.com/science/article/abs/pii/S0304393225000571), joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/) has just been published in the Journal of Monetary Economics!
 
 - New WP: ["Monetary Policy in the Euro Area, when Phillips Curves ... are Curves"](https://cepr.org/publications/dp20489) , joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/). 
 
-Contact: carrier.alexandre15@gmail.com
-
-You can download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
 
 
 ### My research interests are:
