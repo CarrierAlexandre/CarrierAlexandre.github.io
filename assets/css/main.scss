@@ -85,6 +85,17 @@ h3, h4, h5, h6 {
 
 /* --- Sidebar: pure text column, no chrome -------------------------------- */
 
+/* Increase sidebar text — default $type-size-6 is too small at 15px base */
+.sidebar p,
+.sidebar li {
+  font-size: 0.88em;
+  line-height: 1.6;
+}
+
+.author__bio {
+  font-size: 0.88em;
+}
+
 .sidebar {
   opacity: 1;
 }
@@ -138,8 +149,14 @@ h3, h4, h5, h6 {
 }
 
 .author__urls a {
-  color: #5c6f7a;
+  color: #1a52a8;
   font-size: 0.85em;
+}
+
+/* --- Headings: dark green for h2/h3 -------------------------------------- */
+
+h2, h3 {
+  color: #1e4d2b;
 }
 
 /* --- Links --------------------------------------------------------------- */
@@ -154,14 +171,15 @@ a:hover {
 }
 
 .page__content a {
-  color: #5c6f7a;
+  color: #1a52a8;
   text-decoration: underline;
   text-underline-offset: 2px;
-  text-decoration-color: rgba(92, 111, 122, 0.4);
+  text-decoration-color: rgba(26, 82, 168, 0.35);
 }
 
 .page__content a:hover {
-  text-decoration-color: #5c6f7a;
+  color: #0f3a7a;
+  text-decoration-color: #0f3a7a;
 }
 
 /* --- Content column ------------------------------------------------------ */
@@ -190,12 +208,12 @@ a:hover {
 }
 
 .page__footer a {
-  color: #5c6f7a !important;
+  color: #1a52a8 !important;
 }
 
 .page__footer-follow .social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i {
-  color: #5c6f7a;
+  color: #1a52a8;
 }
 
 /* --- Global: remove rounded corners and box-shadows ---------------------- */
@@ -218,6 +236,6 @@ a:hover {
 .notice--success,
 .notice--danger {
   border-radius: 0 !important;
-  border-left: 2px solid #5c6f7a;
+  border-left: 2px solid #1e4d2b;
   background: #f8f8f8;
 }
