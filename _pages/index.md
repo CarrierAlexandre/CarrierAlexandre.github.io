@@ -16,7 +16,7 @@ classes: wide
 
 I am an Economist Graduate Programme participant at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), with experience in both DG Monetary Policy and DG Research. I obtained my PhD from the [University of Amsterdam](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-economics-and-business/faculty-of-economics-and-business.html) and [Bielefeld University](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/).
 
-Prior to the ECB, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on a suite of models for policy analysis within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home). I also completed a PhD Traineeship in DG Monetary Policy at the ECB, where I contributed to a toolkit for evaluating alternative monetary policy strategies across a range of macromodels.
+Prior to the ECB, I was a Research Analyst at [De Nederlandsche Bank](https://www.dnb.nl/en/), working on a suite of models for policy analysis within the team of [Guido Ascari](https://sites.google.com/site/guidoascari/home). I also completed a PhD Traineeship in DG Monetary Policy at the ECB, where I contributed to a toolkit for evaluating alternative monetary policy strategies across a range of macromodels. A full list of my research is available [here](/Research/).
 
 ### Some news
 
