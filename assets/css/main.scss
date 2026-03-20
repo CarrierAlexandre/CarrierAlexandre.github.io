@@ -8,28 +8,216 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+/* ==========================================================================
+   Direction 3 — Continental Minimalist overrides
+   ========================================================================== */
+
+/* --- Typography ---------------------------------------------------------- */
+
+html {
+  font-size: 15px;
+}
+
+body {
+  line-height: 1.78;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h1 {
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  font-size: 1.15em;
+}
+
+h2 {
+  letter-spacing: 0.01em;
+  font-size: 1.05em;
+}
+
+h3, h4, h5, h6 {
+  font-size: 1em;
+}
+
+/* --- Masthead: nearly invisible ------------------------------------------ */
+
+.masthead {
+  border-bottom: 1px solid #e8e8e8;
+  background: #fff;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+}
+
+.site-title {
+  font-weight: 400;
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  font-size: 0.72em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 400;
+}
+
+/* --- Navigation ---------------------------------------------------------- */
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav .visible-links a {
+  font-size: 0.72em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.5em 0.75em;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #5c6f7a;
+}
+
+/* --- Sidebar: pure text column, no chrome -------------------------------- */
+
+.sidebar {
+  opacity: 1;
+}
+
+/* Avatar: keep circle shape, remove border and padding */
+.author__avatar img {
+  max-width: 130px;
+  border-radius: 50%;
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+
 @media (min-width: 80em) {
-
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 80px;
-  height: 80px;
-
-  @include breakpoint($large) {
+  .author__avatar {
     display: block;
     width: auto;
     height: auto;
   }
 
-  img {
-    max-width: 175px;
+  .author__avatar img {
+    max-width: 130px;
     border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    border: none !important;
+    padding: 0 !important;
   }
 }
+
+.author__name {
+  font-weight: 700;
+  font-size: 0.95em;
+  letter-spacing: 0.01em;
+}
+
+.author__bio {
+  color: #666;
+  font-size: 0.82em;
+  line-height: 1.5;
+  font-style: normal;
+}
+
+/* Social links: plain text, no icon boxes */
+.author__urls-wrapper {
+  font-size: 0.8em;
+}
+
+.author__urls {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.author__urls a {
+  color: #5c6f7a;
+  font-size: 0.85em;
+}
+
+/* --- Links --------------------------------------------------------------- */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.page__content a {
+  color: #5c6f7a;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(92, 111, 122, 0.4);
+}
+
+.page__content a:hover {
+  text-decoration-color: #5c6f7a;
+}
+
+/* --- Content column ------------------------------------------------------ */
+
+.page__content {
+  font-size: 1em;
+  line-height: 1.78;
+}
+
+.page__title {
+  font-size: 1.15em;
+  font-weight: 400;
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+  margin-bottom: 1.5em;
+}
+
+/* --- Footer: white, minimal ---------------------------------------------- */
+
+.page__footer {
+  background: #fff !important;
+  color: #999 !important;
+  border-top: 1px solid #e8e8e8;
+  font-size: 0.78em;
+  margin-top: 3em;
+}
+
+.page__footer a {
+  color: #5c6f7a !important;
+}
+
+.page__footer-follow .social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i {
+  color: #5c6f7a;
+}
+
+/* --- Global: remove rounded corners and box-shadows ---------------------- */
+
+.btn {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-size: 0.75em;
+  font-weight: 400;
+  border: 1px solid currentColor;
+  background: transparent;
+}
+
+.notice,
+.notice--primary,
+.notice--info,
+.notice--warning,
+.notice--success,
+.notice--danger {
+  border-radius: 0 !important;
+  border-left: 2px solid #5c6f7a;
+  background: #f8f8f8;
 }
