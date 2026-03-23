@@ -5,18 +5,18 @@ permalink: /Research/
 author_profile: true
 ---
 
-## Publications
+## **Publications**
 
-##### Optimal normalization policy under behavioral expectations
+**Optimal normalization policy under behavioral expectations**
 
 joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/), *Journal of Monetary Economics*, Vol. 153, 103786, July 2025.
 [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304393225000571) / [Revised draft](/assets/Carrier_Mavromatis_2025April.pdf) / [Original DNB Working Paper version](https://www.dnb.nl/en/publications/research-publications/working-paper-2024/800-optimal-normalization-policy-under-behavioral-expectations/)
 
 ---
 
-## Working Papers
+## **Working Papers**
 
-##### Monetary Policy in the Euro Area, when Phillips Curves ... are Curves
+**Monetary Policy in the Euro Area, when Phillips Curves ... are Curves**
 
 joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/).
 [CEPR Discussion Paper](https://cepr.org/publications/dp20489) / [Ungated](https://drive.google.com/file/d/1JCJQk3AfwXRzzzdSUoidae0yAWgwbL8Y/view?usp=sharing)
@@ -28,25 +28,25 @@ joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Eman
 
 ---
 
-## Policy Analysis
+## **Policy Analysis**
 
-##### Report on monetary policy tools, strategy and communication — Workstream 2
+**Report on monetary policy tools, strategy and communication / Workstream 2**
 
-Christophe Kamps et al. *ECB Occasional Paper* No. 372, 2025. I contributed as team coordinator.
-[PDF](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op372.en.pdf)
+[Christophe Kamps](https://www.ecb.europa.eu/pub/research/authors/profiles/christophe-kamps.en.html) et al. *ECB Occasional Paper* No. 372, 2025. I contributed as team coordinator.
+[ECB Occasional Paper](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op372.en.pdf)
 
 ---
 
-## Work in Progress
+## **Work in Progress**
 
-##### Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area
+**Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area**
 
 <details>
 <summary>+ Abstract</summary>
 <p style="text-align: justify; font-size: 0.9em; margin-top: 0.6em;">This paper studies the effects of the ECB's large-scale bond purchases on euro area economic activity and income inequality, in a New Keynesian model with limited asset market participation. I estimate the model using Bayesian methods and euro area data, considering the occasionally binding constraint on the policy rate and the public sector purchase programme (PSPP) implemented by the ECB in 2015. The results suggest that the PSPP has effectively lifted both output and inflation. In terms of income inequality, the impact was modest overall but exhibited a non-linear profile. In the early years of the program, income inequality widened, reflecting rising asset prices. Subsequently, however, this trend reversed, with gradual and sustained growth in labor income becoming the predominant factor, leading to a decline in income inequality.</p>
 </details>
 
-##### Behavioral learning equilibria in a bond market with asset purchases
+**Behavioral learning equilibria in a bond market with asset purchases**
 
 joint with [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html)
 
