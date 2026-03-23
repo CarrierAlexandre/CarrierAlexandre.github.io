@@ -190,11 +190,23 @@ a:hover {
 }
 
 .page__title {
-  font-size: 1.15em;
-  font-weight: 400;
-  letter-spacing: 0.025em;
-  text-transform: uppercase;
-  margin-bottom: 1.5em;
+  display: none;
+}
+
+/* --- CV timeline entries ------------------------------------------------- */
+
+.cv-entry {
+  display: flex;
+  gap: 1.5em;
+  margin-bottom: 0.9em;
+  align-items: baseline;
+}
+
+.cv-date {
+  min-width: 9em;
+  color: #888;
+  font-size: 0.85em;
+  flex-shrink: 0;
 }
 
 /* --- Footer: white, minimal ---------------------------------------------- */

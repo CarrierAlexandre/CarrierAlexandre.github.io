@@ -5,48 +5,66 @@ permalink: /cv/
 author_profile: true
 ---
 
-<style>
-  body {
-    font-size: 15px; /* Adjust body font size as needed */
-  }
-  h1, h2, h3, h4, h5, h6 {
-    font-size: 19px; /* Adjust heading font sizes as needed */
-  }
-  .author__avatar {
-    width: 100px; /* Adjust avatar size as needed */
-    height: 100px; /* Adjust avatar size as needed */
-  }
-  a {
-    color: #003399; /* This is a deeper blue color; adjust the hex value as needed */
-  }
+Download my [CV here](https://carrieralexandre.github.io/assets/CV_Alexandre_Carrier.pdf).
 
-  a:hover {
-    color: #002a80; /* This is even darker for when you hover over the link; adjust as needed */
-  }
-</style>
+### **Employment**
 
-### Employment 
+<div class="cv-entry">
+  <span class="cv-date">Sep 2024–present</span>
+  <div class="cv-body">
+    <strong>European Central Bank</strong>, Frankfurt-am-Main<br>
+    Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
+  </div>
+</div>
 
-- European Central Bank, Frankfurt-am-Main, since September 2024: Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
+### **Past work experience**
 
-### Past work experience
+<div class="cv-entry">
+  <span class="cv-date">Sep 2023–Aug 2024</span>
+  <div class="cv-body">
+    <strong>De Nederlandsche Bank</strong>, Amsterdam<br>
+    Research analyst in Monetary Policy Research.
+  </div>
+</div>
 
-- De Nederlandsche Bank, Amsterdam, September 2023 - August 2024: Research analyst in Monetary Policy Research.
+<div class="cv-entry">
+  <span class="cv-date">Aug 2022–Aug 2023</span>
+  <div class="cv-body">
+    <strong>European Central Bank</strong>, Frankfurt-am-Main<br>
+    PhD traineeship in DG Monetary Policy, within Senior Management.
+  </div>
+</div>
 
-- European Central Bank, Frankfurt-am-Main, August 2022 - August 2023: PhD traineeship in the DG Monetary Policy, within Senior Management.
+<div class="cv-entry">
+  <span class="cv-date">Apr–Jul 2019</span>
+  <div class="cv-body">
+    <strong>CEPII</strong>, Paris<br>
+    Research assistant in the International Macroeconomics and Finance Department.
+  </div>
+</div>
 
-- CEPII, Paris, April - July 2019: Research assistant in the International Macroeconomics and Finance Department.
+### **Education**
 
+<div class="cv-entry">
+  <span class="cv-date">2019–2024</span>
+  <div class="cv-body">
+    <strong>University of Amsterdam &amp; Bielefeld University</strong><br>
+    Joint PhD in Economics, <em>cum laude</em> (highest Dutch distinction).
+  </div>
+</div>
 
+<div class="cv-entry">
+  <span class="cv-date">2017–2019</span>
+  <div class="cv-body">
+    <strong>Paris-Dauphine University</strong><br>
+    Master in Monetary and Financial Economics.
+  </div>
+</div>
 
-### Education
-
-- University of Amsterdam and Bielefeld University, 2019 - 2024, Joint PhD in Economics, cum laude (highest dutch distinction)
-
-- Paris-Dauphine University, 2017 - 2019, Master in Monetary and Financial Economics
-
-- Goethe University, Frankfurt-am-Main - Paris-Dauphine University, 2014 - 2017, Bachelor in Applied Economics - Double-Degree
-
-
-You can download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
-
+<div class="cv-entry">
+  <span class="cv-date">2014–2017</span>
+  <div class="cv-body">
+    <strong>Goethe University, Frankfurt-am-Main &amp; Paris-Dauphine University</strong><br>
+    Bachelor in Applied Economics — Double Degree.
+  </div>
+</div>
