@@ -37,4 +37,4 @@ Prior to the ECB, I was a Research Analyst at [De Nederlandsche Bank](https://ww
 
 ### **CV**
 
-Download my [CV here](/assets/CV_Alexandre_Carrier.pdf).
+<a href="/assets/CV_Alexandre_Carrier.pdf" class="btn">↓ Download CV</a>

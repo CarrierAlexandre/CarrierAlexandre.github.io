@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Download my [CV here](https://carrieralexandre.github.io/assets/CV_Alexandre_Carrier.pdf).
+<a href="https://carrieralexandre.github.io/assets/CV_Alexandre_Carrier.pdf" class="btn">↓ Download CV</a>
 
 ### **Employment**
 
