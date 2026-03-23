@@ -115,11 +115,10 @@ author:
   avatar           : "/assets/images/bio_picture.jpg"
   bio              : "ECB Econ. Graduate Programme @DG Monetary Policy."
   location         : "Frankfurt-am-Main"
-  email            : "alexandre.carrier@ecb.europa.eu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:alexandre.carrier@ecb.europa.eu"
+      url: "mailto:carrier.alexandre15@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CarrierAlexandre"
