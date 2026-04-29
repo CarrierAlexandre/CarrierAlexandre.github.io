@@ -19,7 +19,7 @@ joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavrom
 **Monetary Policy in the Euro Area, when Phillips Curves ... are Curves**
 
 joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/).
-[CEPR Discussion Paper](https://cepr.org/publications/dp20489) / [Ungated](https://drive.google.com/file/d/1JCJQk3AfwXRzzzdSUoidae0yAWgwbL8Y/view?usp=sharing)
+[CEPR Discussion Paper](https://cepr.org/publications/dp20489) / [Ungated](/assets/ACGGV2026.pdf)
 
 <details>
 <summary>+ Abstract</summary>
