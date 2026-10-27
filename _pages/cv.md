@@ -13,7 +13,8 @@ author_profile: true
   <span class="cv-date">Sep 2024–present</span>
   <div class="cv-body">
     <strong>European Central Bank</strong>, Frankfurt-am-Main<br>
-    Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
+    Economist, DG Monetary Policy.<br>
+    Previously Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
   </div>
 </div>
 

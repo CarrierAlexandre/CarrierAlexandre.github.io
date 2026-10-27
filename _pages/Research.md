@@ -16,10 +16,10 @@ joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavrom
 
 ## **Working Papers**
 
-**Monetary Policy in the Euro Area, when Phillips Curves ... are Curves**
+**Nominal Rigidities and Monetary Policy in the Euro Area**
 
 joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Emanuel Gasteiger](https://www.urleiwand.com/), [Alex Grimaud](https://www.alexgrimaud.com/home) & [Gauthier Vermandel](https://vermandel.fr/).
-[CEPR Discussion Paper](https://cepr.org/publications/dp20489) / [Ungated](/assets/ACGGV2026.pdf)
+[Latest version](/assets/ACGGV2026_update.pdf) / Earlier version: [CEPR Discussion Paper](https://cepr.org/publications/dp20489) ("Monetary Policy in the Euro Area, when Phillips Curves ... are Curves")
 
 <details>
 <summary>+ Abstract</summary>

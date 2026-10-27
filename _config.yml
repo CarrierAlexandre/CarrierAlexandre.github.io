@@ -27,7 +27,7 @@ title                    : "Alexandre Carrier"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Alexandre Carrier"
-description              :  "Hi, welcome to my website! I am Alexandre Carrier, Economist Graduate Programme Participant @ ECB."
+description              :  "Hi, welcome to my website! I am Alexandre Carrier, Economist @ ECB."
 url                      : https://CarrierAlexandre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CarrierAlexandre/CarrierAlexandre.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ analytics:
 author:
   name             : "Alexandre Carrier"
   avatar           : "/assets/images/bio_picture.jpg"
-  bio              : "ECB Econ. Graduate Programme @DG Monetary Policy."
+  bio              : "Economist @ ECB, DG Monetary Policy."
   location         : "Frankfurt-am-Main"
   links:
     - label: "Email"
