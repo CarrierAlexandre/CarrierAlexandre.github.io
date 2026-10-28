@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexandre Carrier"
-  avatar           : "/assets/images/conference_avatar.jpg"
+  avatar           : "/assets/images/profile_conference.jpg"
   bio              : "Economist @ ECB, DG Monetary Policy."
   location         : "Frankfurt-am-Main"
   links:
