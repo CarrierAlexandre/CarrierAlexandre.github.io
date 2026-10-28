@@ -246,20 +246,20 @@ p.paper-links {
   font-size: 0.85em;
 }
 
-/* Sub-roles within one employer: date on the left, role text indented */
+/* Sub-roles within one employer: fixed-width date so role titles line up */
 .cv-role {
   display: flex;
   gap: 1em;
   margin-top: 0.3em;
-  padding-left: 0.9em;
-  border-left: 2px solid #d9d9d9;
+  align-items: baseline;
 }
 
 .cv-role-date {
-  min-width: 8.5em;
+  width: 10.5em;
   color: #888;
   font-size: 0.85em;
   flex-shrink: 0;
+  white-space: nowrap;
 }
 
 @media (max-width: 40em) {
