@@ -221,6 +221,31 @@ a:hover {
   flex-shrink: 0;
 }
 
+/* Research entries: title, then authors / venue / links tight underneath */
+p.paper-title {
+  margin: 1.6em 0 0.1em;
+}
+
+h2 + p.paper-title {
+  margin-top: 0.6em;
+}
+
+p.paper-authors {
+  margin: 0 0 0.1em;
+  color: #666;
+  font-size: 0.92em;
+}
+
+p.paper-venue {
+  margin: 0 0 0.1em;
+  font-size: 0.92em;
+}
+
+p.paper-links {
+  margin: 0 0 0.3em;
+  font-size: 0.85em;
+}
+
 /* Sub-roles within one employer: date on the left, role text indented */
 .cv-role {
   display: flex;

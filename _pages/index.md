@@ -28,7 +28,7 @@ I am an Economist in DG Monetary Policy at the [European Central Bank](https://w
 
 - Macroeconomics and monetary economics
 - Macroeconomic modeling
-- Heterogeneous agents
+- Monetary policy counterfactuals
 - Bounded rationality and learning
 
 ### **CV**
