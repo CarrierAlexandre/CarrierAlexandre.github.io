@@ -100,14 +100,14 @@ h3, h4, h5, h6 {
   opacity: 1;
 }
 
-/* Avatar: square crop shown as a circle, remove border and padding */
+/* Avatar: square crop, remove border and padding */
 .author__avatar img {
   width: 170px;
   height: 170px;
   max-width: 170px;
   object-fit: cover;
   object-position: center top;
-  border-radius: 50%;
+  border-radius: 0;
   border: none !important;
   padding: 0 !important;
   box-shadow: none !important;
@@ -126,7 +126,7 @@ h3, h4, h5, h6 {
     max-width: 170px;
     object-fit: cover;
     object-position: center top;
-    border-radius: 50%;
+    border-radius: 0;
     border: none !important;
     padding: 0 !important;
   }
