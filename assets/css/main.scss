@@ -100,9 +100,13 @@ h3, h4, h5, h6 {
   opacity: 1;
 }
 
-/* Avatar: keep circle shape, remove border and padding */
+/* Avatar: square crop shown as a circle, remove border and padding */
 .author__avatar img {
-  max-width: 130px;
+  width: 170px;
+  height: 170px;
+  max-width: 170px;
+  object-fit: cover;
+  object-position: 55% 30%;
   border-radius: 50%;
   border: none !important;
   padding: 0 !important;
@@ -117,7 +121,11 @@ h3, h4, h5, h6 {
   }
 
   .author__avatar img {
-    max-width: 130px;
+    width: 170px;
+    height: 170px;
+    max-width: 170px;
+    object-fit: cover;
+    object-position: 55% 30%;
     border-radius: 50%;
     border: none !important;
     padding: 0 !important;
@@ -211,6 +219,29 @@ a:hover {
   color: #888;
   font-size: 0.85em;
   flex-shrink: 0;
+}
+
+/* Sub-roles within one employer: date on the left, role text indented */
+.cv-role {
+  display: flex;
+  gap: 1em;
+  margin-top: 0.3em;
+  padding-left: 0.9em;
+  border-left: 2px solid #d9d9d9;
+}
+
+.cv-role-date {
+  min-width: 8.5em;
+  color: #888;
+  font-size: 0.85em;
+  flex-shrink: 0;
+}
+
+@media (max-width: 40em) {
+  .cv-role {
+    flex-direction: column;
+    gap: 0;
+  }
 }
 
 /* --- Footer: white, minimal ---------------------------------------------- */
