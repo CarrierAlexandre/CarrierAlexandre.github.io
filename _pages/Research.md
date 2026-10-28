@@ -39,18 +39,14 @@ joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Eman
 
 ## **Work in Progress**
 
-**Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area**
+**Monetary policy counterfactuals in non-linear environments**
 
-<details>
-<summary>+ Abstract</summary>
-<p style="text-align: justify; font-size: 0.9em; margin-top: 0.6em;">This paper studies the effects of the ECB's large-scale bond purchases on euro area economic activity and income inequality, in a New Keynesian model with limited asset market participation. I estimate the model using Bayesian methods and euro area data, considering the occasionally binding constraint on the policy rate and the public sector purchase programme (PSPP) implemented by the ECB in 2015. The results suggest that the PSPP has effectively lifted both output and inflation. In terms of income inequality, the impact was modest overall but exhibited a non-linear profile. In the early years of the program, income inequality widened, reflecting rising asset prices. Subsequently, however, this trend reversed, with gradual and sustained growth in labor income becoming the predominant factor, leading to a decline in income inequality.</p>
-</details>
+**Winds of trade wars**
+
+joint with [Kostas Mavromatis](https://sites.google.com/site/konstantinossmavromatis/home), [Leonardo Melosi](https://sites.google.com/site/lemelosi/working-papers) & [Sebastian Rast](https://www.sebastianrast.com/)
+
+**Assessing the aggregate and distributional implications of large-scale bond purchases in the euro area**
 
 **Behavioral learning equilibria in a bond market with asset purchases**
 
 joint with [Cars Hommes](https://www.uva.nl/en/profile/h/o/c.h.hommes/c.h.hommes.html)
-
-<details>
-<summary>+ Abstract</summary>
-<p style="text-align: justify; font-size: 0.9em; margin-top: 0.6em;">This paper studies the effects of central banks' asset purchases on long-term government bond yields, in a model featuring investors who adopt a simple yet optimal AR(1) forecasting rule based on past data. By examining the convergence dynamics of agents towards a specific Behavioral Learning Equilibrium (BLE), we uncover the factors that shape the efficacy of these policies: financial market volatility and short-term interest rates. In periods characterised by low financial stress, agents' learning process leads to stable convergence, with forecasts exhibiting a near-unit root first-order autocorrelation coefficient. As a consequence, quantitative easing (QE) demonstrates significant and persistent effects on bond yields. However, in times of heightened financial volatility, multiple equilibria emerge, leading QE to have effects that vary from high to low persistence.</p>
-</details>

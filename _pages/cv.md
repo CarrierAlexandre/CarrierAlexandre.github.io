@@ -10,11 +10,18 @@ author_profile: true
 ### **Employment**
 
 <div class="cv-entry">
-  <span class="cv-date">Sep 2024–present</span>
+  <span class="cv-date">Sep 2026–present</span>
   <div class="cv-body">
     <strong>European Central Bank</strong>, Frankfurt-am-Main<br>
-    Economist, DG Monetary Policy.<br>
-    Previously Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
+    Economist, DG Monetary Policy.
+  </div>
+</div>
+
+<div class="cv-entry">
+  <span class="cv-date">Sep 2024–Aug 2026</span>
+  <div class="cv-body">
+    <strong>European Central Bank</strong>, Frankfurt-am-Main<br>
+    Economist Graduate Programme Participant, DG Monetary Policy / DG Research.
   </div>
 </div>
 
