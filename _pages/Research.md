@@ -32,6 +32,9 @@ joint with [Guido Ascari](https://sites.google.com/site/guidoascari/home), [Eman
 [Latest version](/assets/ACGGV2026_update.pdf) / Earlier version: [CEPR Discussion Paper](https://cepr.org/publications/dp20489) ("Monetary Policy in the Euro Area, when Phillips Curves ... are Curves")
 {: .paper-links}
 
+[Presentation video](https://www.youtube.com/watch?v=NEG1ARMhJzU): International Research Forum on Monetary Policy, Young Economist Session
+{: .paper-links}
+
 <details>
 <summary>+ Abstract</summary>
 <p style="text-align: justify; font-size: 0.9em; margin-top: 0.6em;">We study monetary policy in a nonlinear New Keynesian model with state-dependent price- and wage-adjustment frequencies. The extensive margin of nominal adjustment makes shock propagation sign-, size-, and state-dependent. Inflationary shocks generally increase firms' incentives to reprice, whereas wage reoptimization responds only when shocks sufficiently affect desired real wages and labor-market conditions. Estimating the model on euro area data from 1999Q1 to 2024Q4, we find a pronounced price-wage asymmetry. During the 2021–2022 surge, price adjustment increased sharply, while wage inflation mainly reflected delayed real-wage catch-up. Consequently, monetary policy could reduce inflation at lower output cost.</p>
